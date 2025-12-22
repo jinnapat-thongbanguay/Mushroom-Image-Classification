@@ -1,19 +1,3 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
-
 # Mushroom Image Classification with RAG & CLIP
 
 โปรเจกต์นี้เป็นระบบ จำแนกชนิดเห็ดจากภาพ (Mushroom Image Classification) พัฒนาโดยใช้แนวคิด Hybrid Computer Vision + Retrieval-Augmented Generation (RAG)
@@ -46,4 +30,8 @@
 
 ## Inference Result Visualization
 <img width="2880" height="6011" alt="screencapture-mushroom-app-oy86puszyy-streamlit-app-2025-12-22-19_04_52" src="https://github.com/user-attachments/assets/88225f4e-53ff-4900-9bff-893d3b928a50" />
+
+## Live Demo
+The web application is deployed using **Streamlit** and can be accessed at:  
+🔗 https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/](https://mushroom-app-oy86puszyy.streamlit.app/
 

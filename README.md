@@ -33,5 +33,5 @@
 
 ## Live Demo
 The web application is deployed using **Streamlit** and can be accessed at:  
-🔗 https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/](https://mushroom-app-oy86puszyy.streamlit.app/
-
+🔗 [https://mushroom-app-oy86puszyy.streamlit.app/
+](https://mushroom-app-oy86puszyy.streamlit.app/)
